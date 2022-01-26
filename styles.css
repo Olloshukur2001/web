@@ -1,0 +1,9 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+    background-color: aqua;
+}
+
+.container h1 {
+    font-size: 100px;
+}
